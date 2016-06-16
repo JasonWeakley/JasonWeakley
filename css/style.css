@@ -84,3 +84,35 @@ footer.page-footer {
 .techs p {
   margin-top: -8px;
 }
+
+.titlename {
+  color: rgba(0,0,0,0.6);
+  text-shadow: 2px 3px 3px rgba(255,255,255,0.1);
+  font-size: 6em;
+  font-weight: bolder;
+  opacity: 0.77;
+}
+
+.jobtitle {
+  text-shadow: 2px 3px 3px rgba(255,255,255,0.1);
+  opacity: 0.60;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
