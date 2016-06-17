@@ -102,7 +102,9 @@ footer.page-footer {
   vertical-align: bottom;
 }
 
-
+.profile {
+  max-width: 250px;
+}
 
 
 
